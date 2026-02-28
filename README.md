@@ -1,30 +1,7 @@
 ⚠️ DISCLAIMER: For Educational and Project Testing Purposes Only
 
-This script is intended solely for:
 
-Development and testing environments
-
-Personal lab setups
-
-Educational demonstrations
-
-Legitimate licensed scenarios where you own a valid license
-
-
-
-
-📋 Description
-A simple batch script to activate Windows Server 2019 using command-line tools. This script automates the activation process by running standard Windows activation commands.
-
-🚀 Quick Start
-Prerequisites
-Windows Server 2019 operating system
-
-Administrative privileges
-
-Valid product key or KMS client setup key
-
-Usage Instructions
+#Usage Instructions
 Create the batch file:
 
 Copy the provided code
